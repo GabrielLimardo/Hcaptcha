@@ -1,0 +1,210 @@
+::selection {
+    background: #f8d9e4; /* Safari */
+}
+::-moz-selection {
+    background: #f8d9e4; /* Firefox */
+}
+figure a .overlay {
+    background: rgba(231,130,165,0.9);
+}
+.lg-outer .lg-item:after,
+.animsition-loading,
+.tp-loader.spinner,
+.spinner {
+    border-left: 6px solid #e782a5;
+}
+#preloader .textload {
+    color: #e782a5;
+}
+a {
+    color: #e782a5;
+}
+a.line:hover {
+    border-bottom: 1px solid #e782a5;
+}
+a:hover,
+a:focus {
+    color: #e782a5;
+}
+.nocolor:hover,
+.email-link:hover {
+    color: #e782a5 !important
+}
+.post-title a:hover {
+    color: #e782a5
+}
+.page-title .more a:hover {
+    color: #e782a5
+}
+.meta a:hover,
+.more:hover {
+    color: #e782a5
+}
+.inverse-wrapper.color-wrapper {
+    background: #e782a5
+}
+.navbar .inverse-wrapper .social li a:hover {
+    color: #e782a5 !important
+}
+footer a:hover {
+    color: #e782a5
+}
+footer.inverse-wrapper a:hover,
+.inverse-wrapper a:not(.btn):hover {
+    color: #e782a5 !important
+}
+.contact-info li a:hover {
+    color: #e782a5
+}
+.contact-info i {
+    color: #e782a5;
+}
+.btn {
+    background: #e782a5;
+}
+.btn:hover,
+.btn:focus,
+.btn:active,
+.btn.active {
+    background: #d06b8f;
+}
+.goodshare-wrapper a:hover {
+    color: #e782a5
+}
+.navbar .nav > li.current > a,
+.navbar .nav > li > a:hover,
+.inverse-wrapper .nav > li.current > a,
+.inverse-wrapper .navbar-nav > li > a:hover {
+    color: #e782a5 !important
+}
+.navbar .info a:hover {
+    color: #e782a5
+}
+.rev-bullet {
+    color: #e782a5;
+}
+.numbered .number {
+    counter-increment: stepsNum;
+    color: #e782a5;
+}
+.border-box .box:hover {
+    border-color: #e782a5
+}
+.border-box .icon:not(.icon-bg) i {
+    color: #e782a5;
+}
+.icon-bg {
+    background: #e782a5;
+}
+.icon-s:not(.icon-bg) i {
+    color: #e782a5;
+}
+.isotope-filter ul li a.is-checked:after {
+    border-bottom: 2px solid #e782a5;
+}
+.isotope-filter ul li a.is-checked,
+.isotope-filter ul li a:hover {
+    color: #e782a5
+}
+.pagination ul > li > a:hover {
+    color: #e782a5
+}
+.pagination ul > .active > a span {
+    color: #e782a5
+}
+.sidebox a:hover {
+    color: #e782a5
+}
+#comments .info h4 a:hover {
+    color: #e782a5
+}
+.progress.plain .bar {
+    background: #e782a5 !important;
+}
+.panel.pricing .price {
+    color: #e782a5;
+}
+.tooltip-inner {
+    background-color: #e782a5;
+}
+.tooltip.top .tooltip-arrow,
+.tooltip.top-left .tooltip-arrow,
+.tooltip.top-right .tooltip-arrow {
+    border-top-color: #e782a5
+}
+.tooltip.right .tooltip-arrow {
+    border-right-color: #e782a5
+}
+.tooltip.left .tooltip-arrow {
+    border-left-color: #e782a5
+}
+.tooltip.bottom .tooltip-arrow,
+.tooltip.bottom-left .tooltip-arrow,
+.tooltip.bottom-right .tooltip-arrow {
+    border-bottom-color: #e782a5
+}
+.nav-tabs > li > a:hover {
+    color: #e782a5;
+}
+.nav-tabs > li.active > a,
+.nav-tabs > li.active > a:hover,
+.nav-tabs > li.active > a:focus {
+    color: #e782a5;
+}
+.nav-tabs > li.active > a:after {
+    border-bottom: 2px solid #e782a5;
+}
+.panel-group .panel-heading .panel-title:hover,
+.panel-group .panel-active .panel-heading .panel-title {
+    border: 2px solid #e782a5;
+    color: #e782a5;
+}
+.facts .icon {
+    background: #e782a5;
+}
+.panel.pricing.active::after {
+    border: 3px solid #e782a5 !important;
+}
+.sidebar .meta a:hover,
+footer .meta a:hover {
+    color: #e782a5 !important
+}
+footer .widget .post-list li a:hover {
+    color: #e782a5
+}
+.sidebox .post-list li a:hover {
+    color: #e782a5
+}
+.vanilla-form input[type="radio"]:focus + span,
+.vanilla-form input[type="checkbox"]:focus + span,
+.vanilla-form input[type="radio"]:active + span,
+.vanilla-form input[type="checkbox"]:active + span {
+    border-color: #e782a5
+}
+.vanilla-form input[type="radio"] + span::after {
+    background-color: #e782a5;
+    border-color: #e782a5;
+}
+.vanilla-form input[type="radio"]:checked + span,
+.vanilla-form input[type="checkbox"]:checked + span {
+    border: 1px solid #e782a5
+}
+.vanilla-form input[type="checkbox"] + span::after {
+    border: 0 solid #e782a5;
+}
+.social li a:hover {
+    color: #e782a5
+}
+.lg-outer .lg-thumb-item.active,
+.lg-outer .lg-thumb-item.active:hover {
+    border-color: #e782a5
+}
+@media (max-width: 991px) { 
+	.navbar .navbar-nav > li > a {
+	    color: #fff !important
+	}
+	.navbar .nav > li.current > a,
+	.navbar .nav > li > a:hover {
+	    color: #fff !important
+	}
+}
